@@ -1,2 +1,0 @@
-# topup_game
-UAS
